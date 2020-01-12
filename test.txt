@@ -3,3 +3,6 @@ first use git. 0306
 second use git. 0307
 
 曾经有一份真挚的爱情摆在我面前，我没有好好珍惜
+
+
+ssh key update 
